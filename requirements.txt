@@ -1,0 +1,9 @@
+Flask
+Flask-Login
+Flask-RESTful
+Flask-WTF
+Jinja2
+SQLAlchemy
+SQLAlchemy-serializer
+Werkzeug
+WTForms
